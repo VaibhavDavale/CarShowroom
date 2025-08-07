@@ -165,8 +165,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Vaibhav Davale
+🧑‍💻 Group member
 
----
+Made with 💡 by
 
-**© 2023 Team AutoInnovate** - *Redefining Automotive Management Systems*
+1.Vaibhav Davale 2.Ajay Mali 3)Parth Bagale
+
+📧 davlevaibhav0@gmail.com 📧ajaymali0885@gmail.com 📧parthbagale14@gmail.com 📍 India
+
+
