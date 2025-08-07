@@ -124,24 +124,24 @@ rust.api.base-url=http://localhost:8080
 | `/bookings/{id}/status` | PATCH | Update booking status |
 
 car-showroom/
-├── spring-boot-admin/      # Spring Boot admin application
+├── spring-boot-admin/      
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/
-│   │   │   │   └── com/carshowroom/ # Java source code
+│   │   │   │   └── com/carshowroom/ 
 │   │   │   └── resources/
-│   │   │       ├── static/          # Frontend assets
+│   │   │       ├── static/         
 │   │   │       │   ├── css/
 │   │   │       │   ├── js/
 │   │   │       │   └── index.html
 │   │   │       └── application.properties
 │   │   └── test/
 │   └── pom.xml
-├── rust-api/               # Rust backend service
+├── rust-api/               
 │   ├── src/
-│   │   └── main.rs         # Rust source code
+│   │   └── main.rs         
 │   └── Cargo.toml
-└── README.md               # This file
+└── README.md               
 
 ## 📈 Performance Metrics
 
