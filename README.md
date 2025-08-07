@@ -2,9 +2,14 @@
 
 Made with 💡 by
 
-1.Vaibhav Davale 2.Ajay Mali 3)Parth Bagale
+1.Vaibhav Davale
+2.Ajay Mali
+3.Parth Bagale
 
-📧 davlevaibhav0@gmail.com 📧ajaymali0885@gmail.com 📧parthbagale14@gmail.com 📍 India
+📧 davlevaibhav0@gmail.com
+📧ajaymali0885@gmail.com
+📧parthbagale14@gmail.com
+📍 India
 
 # 🚗 Car Showroom Management System
 
@@ -169,9 +174,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Made with 💡 by
 
-1.Vaibhav Davale 2.Ajay Mali 3)Parth Bagale
+1.Vaibhav Davale 
+2.Ajay Mali 
+3.Parth Bagale
 
-📧 davlevaibhav0@gmail.com 📧ajaymali0885@gmail.com 📧parthbagale14@gmail.com 📍 India
+📧 davlevaibhav0@gmail.com 
+📧ajaymali0885@gmail.com 
+📧parthbagale14@gmail.com 
+📍 India
 
 output:-
 
